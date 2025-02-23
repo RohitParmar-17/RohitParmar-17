@@ -1,5 +1,4 @@
-<img src="https://raw.githubusercontent.com/RohitParmar-17/RohitParmar-17/main/assets/name-banner.png" alt="Rohit Parmar" width="600"/>
-# 💫 Rohit Parmar
+<img src="https://github.com/RohitParmar-17/RohitParmar-17/blob/main/github-header-image.png" alt="Rohit Parmar" style="width:100%;"/>
 🎓 3rd Year Student | DJSanghvi College of Engineering<br>📍 Mumbai, India<br>🧠 Artificial Intelligence & Data Science<br>
 
 
