@@ -1,4 +1,4 @@
-# 💫 Rohit Parmar:
+# 💫 Rohit Parmar
 🎓 3rd Year Student | DJSanghvi College of Engineering<br>📍 Mumbai, India<br>🧠 Artificial Intelligence & Data Science<br>
 
 
